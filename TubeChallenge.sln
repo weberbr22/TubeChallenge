@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubeChallenge", "TubeChallenge.csproj", "{2DCC0216-9BC2-4732-93D0-3549C9A81CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCC0216-9BC2-4732-93D0-3549C9A81CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCC0216-9BC2-4732-93D0-3549C9A81CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCC0216-9BC2-4732-93D0-3549C9A81CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCC0216-9BC2-4732-93D0-3549C9A81CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A6DB4A-E58D-45EA-ABA2-1D8B055C9D7A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/bin/Debug/netcoreapp3.1/TubeChallenge
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/bin/Debug/netcoreapp3.1/TubeChallenge.deps.json
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/bin/Debug/netcoreapp3.1/TubeChallenge.runtimeconfig.json
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/bin/Debug/netcoreapp3.1/TubeChallenge.runtimeconfig.dev.json
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/bin/Debug/netcoreapp3.1/TubeChallenge.dll
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/bin/Debug/netcoreapp3.1/TubeChallenge.pdb
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.csproj.AssemblyReference.cache
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.AssemblyInfoInputs.cache
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.AssemblyInfo.cs
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.csproj.CoreCompileInputs.cache
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.dll
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.pdb
+/Users/rexwb/Academic/Computing/C#/TubeChallenge/obj/Debug/netcoreapp3.1/TubeChallenge.genruntimeconfig.cache
