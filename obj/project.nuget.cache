@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0A6p1kjRwwrOWKs043BY/9qm5+nES4uuJjrHavNQOguYvn5+PuglZdvn8G0PU7IPsylXqmgjqMta/bd7xQ5u+g==",
+  "dgSpecHash": "2ZWepta3cVZEwbObmRx3t3hPKH+nkteRWZMhEybblh3Sr1wg8bR9UfZRFbJj/1uAKrIKxN6g8Djxna6UCrxM0A==",
   "success": true,
   "projectFilePath": "/Users/rexwb/Academic/Computing/C#/TubeChallenge/TubeChallenge.csproj",
   "expectedPackageFiles": [
     "/Users/rexwb/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/rexwb/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/rexwb/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
     "/Users/rexwb/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
